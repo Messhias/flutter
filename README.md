@@ -18,10 +18,19 @@ And it's done.
 
 - Screenshots
 
-![alt text](./screenshots/aap1.jpg)
+![Restaurant entrance screenshot](./screenshots/aap1.jpg)
 
-![alt text](./screenshots/app1.1.jpg)
+![Restaurant entrance screenshot](./screenshots/app1.1.jpg)
 
-![alt text](./screenshots/app1.2.jpg)
+![Restaurant entrance screenshot](./screenshots/app1.2.jpg)
 
-![alt text](./screenshots/app1.3.jpg)
+![Restaurant entrance screenshot](./screenshots/app1.3.jpg)
+
+
+### App 2 - IMC Calculator
+
+- Screenshots
+
+![IMC Calculator](./screenshots/app2.1.png)
+
+![IMC Calculator](./screenshots/app2.2.png)
