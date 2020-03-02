@@ -34,3 +34,11 @@ And it's done.
 ![IMC Calculator](./screenshots/app2.1.png)
 
 ![IMC Calculator](./screenshots/app2.2.png)
+
+
+### App 3 - Currency convert
+
+
+![Currency convert](./screenshots/app3.1.png)
+
+![Currency convert](./screenshots/app3.2.png)
