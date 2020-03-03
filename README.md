@@ -54,3 +54,16 @@ And it's done.
 ![TODO LIST](./screenshots/app4.3.png)
 
 ![TODO LIST](./screenshots/app4.4.png)
+
+
+
+### App 5 - Gif finder
+
+
+![GIF FINDER](./screenshots/app5.1.png)
+
+![GIF FINDER](./screenshots/app5.2.png)
+
+![GIF FINDER](./screenshots/app5.3.png)
+
+
